@@ -1,0 +1,11 @@
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\obj\Debug\netcoreapp2.1\Elevator.csprojAssemblyReference.cache
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\obj\Debug\netcoreapp2.1\Elevator.csproj.CoreCompileInputs.cache
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\obj\Debug\netcoreapp2.1\Elevator.AssemblyInfoInputs.cache
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\obj\Debug\netcoreapp2.1\Elevator.AssemblyInfo.cs
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\bin\Debug\netcoreapp2.1\Elevator.deps.json
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\bin\Debug\netcoreapp2.1\Elevator.runtimeconfig.json
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\bin\Debug\netcoreapp2.1\Elevator.runtimeconfig.dev.json
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\bin\Debug\netcoreapp2.1\Elevator.dll
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\bin\Debug\netcoreapp2.1\Elevator.pdb
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\obj\Debug\netcoreapp2.1\Elevator.dll
+C:\Indrajeet\C#_CodingAssessment\Elevator\Elevator\obj\Debug\netcoreapp2.1\Elevator.pdb
